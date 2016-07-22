@@ -1,0 +1,97 @@
+<!--DOCTYPE declaration-->
+<!DOCTYPE html>
+<html>
+<!--Head tag with a title tag-->
+<head>
+<title>2016-07-18 DWR Homework #2</title>
+</head>
+
+<body>
+
+<!--H1 tag with a title of your choice-->
+<h1>UT Bootcamp HTML Homework</h1>
+
+<!--Embed an image-->
+<IMG SRC="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRuC77_CpsIwq9N9V2TEAzeHnf5cXwLh2ASmMDAuQPsDkp2H8A" ALT="Beach" width="560" height="315">
+<p></p>
+
+<!--Embed an image as a link-->
+<!--Added top to break out of the frame-->
+<a href="https://www.youtube.com/embed/8Em7IRHvArk">
+  <img src="https://i.ytimg.com/vi/8Em7IRHvArk/hqdefault.jpg" alt="I Believe in Miracles" style="width:560x;height:315px;border:0";target="_top"
+</a>
+<p></p>
+
+<!--Create the following three links on your page: -->
+<!--One link that is target="_blank" so that it opens a new tab when clicked on.-->
+<a href="https://www.codingbootcamputaustin.com/" target="_blank">Visit UT Austin Coding Boot Camp</a>
+<p></p>
+
+<!--Make the second link bold. -->
+<b>
+<a href="https://www.codingbootcamputaustin.com/" target="_blank">Visit UT Austin Coding Boot Camp </b> </a>
+<p></p>
+
+<!--Make the third link a placeholder so it goes nowhere. -->
+<a href="#">link</a>
+<p></p>
+
+<!--Create an ordered list of steps to make a sandwich. -->
+<p>The basic steps to make a sandwich are:</p>
+<ol>
+   <li> Wash your hands well.</li>
+   <li> Select all ingredients:  two slices of bread, mustard, one leaf Romaine lettuce, Swiss cheese, turkey</li>
+   <li> Thinly spread mustard on your bread.</li>
+   <li> Wash the Romaine lettuce leaf and place over one side of bread.</li>
+   <li> Slice your tomato very thinly and spread evenly over lettuce.</li>
+   <li> Slice cheese thinly and on top of the tomatoes, place the cheese.</li>
+   <li> Slice your turkey thinly and place on the cheese.</li>
+   <li> Carefully lay the second slice of bread onto the one with turkey, cheese, tomato and lettuce until all sides are as parallel as possible.</li>
+   <li> Cut into small triangles. </li>
+   <li>  Enjoy your sandwich! </li>
+</ol> 
+
+<!--Create an unordered list of 5 bands/musicians you like.-->
+<p>The following is a bulleted or 'unordered' list of 5 bands/musicians:</p>
+<ul>
+   <li> Led Zeppelin
+   <li> The Doors
+   <li> Elvis Presley
+   <li> Bad Company
+   <li> Foreigner
+</ul>
+
+<!--Create a table with 2 columns (animal class, animal name) and have 4 rows of animals--> 
+<p>The following is a table with 2 columns:</p>
+<table border="3" bordercolor="#c86260" bgcolor="#ffffcc" width="50%" cellspacing="2" cellpadding="3">
+   <tr><td><b>Classification of Animals</b></td><td>Animal Name</td></tr>
+   <tr><td><b> Vertebates:Warm-blooded:Mammal</b></td><td>Horse</td></tr>
+   <tr><td><b> Vertebates:Warm-blooded:Birds </b></td><td>Burrowing<br>   Owl</td></tr>
+   <tr><td><b> Vertebates:Cold-blooded:Fish </b></td><td>Guppy</td></tr>
+   <tr><td><b> Invertebates:Jointed Legs:Insect </b></td><td>Ladybug</td></tr>
+</table> 
+
+<!--Use an alternate way of separating links without line breaks. -->
+<!--<p>hello <br /> How are you </p>-->
+<p><span>Hello, </span><span>how are you? </span></p>
+
+<!--Embed a Youtube video of your favorite band/musician.-->
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8pPvNqOb6RA" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2X_2IdybTV0" frameborder="0" allowfullscreen></iframe>
+
+<!--Use object tag-->
+<!--<object width="640" height="360" data="https://www.youtube.com/watch?v=2X_2IdybTV0"></object>-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
